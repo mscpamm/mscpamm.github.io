@@ -1,4 +1,4 @@
-"use strict";(self["webpackChunkGPCPAMM"]=self["webpackChunkGPCPAMM"]||[]).push([[504],{33:function(e,t,n){
+"use strict";(self["webpackChunkMSCPAMM"]=self["webpackChunkMSCPAMM"]||[]).push([[504],{33:function(e,t,n){
 /**
 * @vue/shared v3.5.22
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
